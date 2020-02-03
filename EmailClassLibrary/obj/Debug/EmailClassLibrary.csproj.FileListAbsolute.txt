@@ -1,0 +1,12 @@
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\bin\Debug\EmailClassLibrary.dll
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\bin\Debug\EmailClassLibrary.pdb
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.csprojAssemblyReference.cache
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.dll
+C:\Users\tuj27251\Documents\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.pdb
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\bin\Debug\EmailClassLibrary.dll
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\bin\Debug\EmailClassLibrary.pdb
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.csprojAssemblyReference.cache
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.dll
+C:\Users\Gabriella\Documents\Project3\Project3\EmailClassLibrary\obj\Debug\EmailClassLibrary.pdb
